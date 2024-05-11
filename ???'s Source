@@ -4,7 +4,7 @@
 --getgenv().farmEnabled = false
 -- uncomment this variable if you're loading from this source code and not the original loadstring.
 
-if game.PlaceId ~= 13570519570 or not getgenv().farmEnabled then return end
+if game.PlaceId ~= 6403373529 or not getgenv().farmEnabled then return end
 
 -- waits for the game to load
 if not game:IsLoaded() then
